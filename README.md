@@ -130,7 +130,6 @@ The author acknowledges all those who have provided inputs and technical support
 - [Dr Jie Chen](https://scholar.google.com/citations?user=GPM9kTgAAAAJ&hl=en) (Fuzhou University, China)
 - Jillisa Thompson (School of Chemistry, University of Bristol, UK)
 - [Bo Gao](https://www.linkedin.com/in/bo-gao-771841199/) (School of physics, University of Bristol, UK)
-- [ChatGPT](https://openai.com/blog/chatgpt/)
 
 
 ---
