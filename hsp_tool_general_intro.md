@@ -69,7 +69,7 @@ It is a top-down approach aiming at obtaining the HSP of as-studied material (M)
   <img src=https://github.com/xueannafang/hsp-toolkits/blob/main/figs/m_loc_sch.png width=300>
   </p>
 
-Part of the *MLoc* can be connected to *SolvPred*] to provide multi-solvent suggestion based on the as-predicted HSP of the material.
+Part of the *MLoc* can be connected to *SolvPred* to provide multi-solvent suggestion based on the as-predicted HSP of the material.
 
 The solubility indicator applied in the prototype version is based on UV-Vis spectroscoy features. User can specify their own indicator (served as the weight function).
 
@@ -98,7 +98,7 @@ The studied materials tested during the development of *MLoc* are mainly based o
 2. X. Fang, C. F.J. Faul, N. Fey, E. Gale, SolvPred - A python toolkit to predict multi-solvent combinations with target Hansen solubility parameters (manuscript in preparation)
 3. X. Fang, U. Karatayeva, S. A. A. Siyabi, B. B. Narzary, M. G. Girgin, D. Mukhanov, C. F.J. Faul, N. Fey, E. Gale, MLoc - A python toolkit to predict Hansen solubility parameters of functional materials (manuscript in preparation).
 
-(Phyciscal/Chemical data of solvents in the database were collected from PubChem and HSP handbook.)
+(Physical/Chemical data of solvents in the database were collected from [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and HSP handbook.)
 
 ## Disclaimer
 
