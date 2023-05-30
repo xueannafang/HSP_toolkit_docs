@@ -51,6 +51,8 @@ The key function is to convert the target HSP into a multi-solvent list based on
 
  Advanced property filtration could be avilable depending on users preference.
 
+ A candidate selection checklist is available [here]().
+
 
 2. *M Locator (MLoc)*:
 - Predict HSPs of the studied material based on an experimental-measurable solubility score.
@@ -88,6 +90,9 @@ The studied materials tested during the development of *MLoc* are mainly based o
 
 <!-- - [v2.0](https://github.com/xueannafang/HSP_toolkit_MLoc_v2) -->
 - [Prototype/v1.0](https://github.com/xueannafang/hsp_toolkit_prototype/tree/main/HSP_MLocator)
+
+
+
 
 
 ---
