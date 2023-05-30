@@ -38,4 +38,4 @@ We classifies the following situations and practical considerations:
 - [Water miscible options](https://github.com/xueannafang/hsp_toolkit_solv_pred_v_2.0/blob/main/candidate_pool/default_solv_candidate_water_mis.xlsx)
 
 
-(This doc may be contiously updated.)
+(This doc may be continously updated.)
