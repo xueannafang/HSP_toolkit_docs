@@ -26,7 +26,7 @@ We classifies the following situations and practical considerations:
 - We recommned to discuss potential restriction with the staff operating related facilities.
 - What is the restriction on the instrument? For example, TEM may require additional drying step if hexane is applied. HPLC, NMR, ESI, may also have a limited candidate options available. 
 - Is there any requirement on hydrophobicity and contacting condition with your sample holder? The hydrophobicity of solvents and solute can together determine the appropriate sample holder materials for certain techniques.
-- Would that technique prefer voltaile or non-volatile solvents?
+- Would that technique prefer volatile or non-volatile solvents?
 - For MALDI: how is the compatibility between the matrix and solvent?
 - Is there any concern on the swellability of sample container? You may need to choose the correct material for the container if aggressive solvents are applied.
 
@@ -38,4 +38,4 @@ We classifies the following situations and practical considerations:
 - [Water miscible options](https://github.com/xueannafang/hsp_toolkit_solv_pred_v_2.0/blob/main/candidate_pool/default_solv_candidate_water_mis.xlsx)
 
 
-(This doc may be continously updated.)
+(This doc may be continuously updated.)
