@@ -88,7 +88,7 @@ The studied materials tested during the development of *MLoc* are mainly based o
 
 ### MLoc
 
-<!-- - [v2.0](https://github.com/xueannafang/HSP_toolkit_MLoc_v2) -->
+- [v2.0](https://github.com/xueannafang/hsp_mloc_v2)
 - [Prototype/v1.0](https://github.com/xueannafang/hsp_toolkit_prototype/tree/main/HSP_MLocator)
 
 
