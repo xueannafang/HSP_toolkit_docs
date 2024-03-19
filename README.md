@@ -82,7 +82,7 @@ The studied materials tested during the development of *MLoc* are mainly based o
 
 ### SolvPred
 
-- [More from HSPs: SolvPred+](https://github.com/xueannafang/solv_pred_plus)
+- [SolvPred+](https://github.com/xueannafang/solv_pred_plus): This is an extension from ```SolvPred```. Allow solvent design by more features than HSPs. 
 
 - [v2.0](https://github.com/xueannafang/hsp_toolkit_solv_pred_v_2.0)
 
