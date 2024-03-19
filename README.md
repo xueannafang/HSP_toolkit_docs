@@ -97,19 +97,15 @@ The studied materials tested during the development of *MLoc* are mainly based o
 ## References
 
 1. C. Hansen, Hansen Solubility Parameters – A user’s handbook, 2nd edition, 2011.
-2. X. Fang, C. F.J. Faul, N. Fey, E. Gale, SolvPred - A python toolkit to predict multi-solvent combinations with target Hansen solubility parameters (manuscript in preparation)
-3. X. Fang, U. Karatayeva, S. A. A. Siyabi, B. B. Narzary, M. G. Girgin, D. Mukhanov, C. F.J. Faul, N. Fey, E. Gale, MLoc - A python toolkit to predict Hansen solubility parameters of functional materials (manuscript in preparation).
-
-
 (Physical/Chemical data of solvents in the database were collected from [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and HSP handbook.)
 
 ## Disclaimer
 
-  - The as-mentioned HSP tools are under continous tests and improvement. The output only provide suggestion. Results may vary with multi factors in complicated situations. It is the users responsbility to manuallay check the exact experimental performance in different scenarios.
+  - The as-mentioned HSP tools are under continous tests and improvement. The output only provide suggestion. Results may vary with multi factors in complicated situations. We encourage users to manuallay check the exact experimental performance in different scenarios.
 
 ---
 
-This project is developed by
+These projects are developed by
 
 - [Xue Fang](https://www.linkedin.com/in/xue-fang-811204163/) (School of chemistry, University of Bristol, UK)
 
@@ -131,7 +127,6 @@ The development and communication of this work are funded by::
 The author acknowledges all those who have provided inputs and technical support during the design and exploration of these toolkits, in particular:
 
 - [Dr Jie Chen](https://scholar.google.com/citations?user=GPM9kTgAAAAJ&hl=en) (Fuzhou University, China)
-- Jillisa Thompson (School of Chemistry, University of Bristol, UK)
 - [Bo Gao](https://www.linkedin.com/in/bo-gao-771841199/) (School of physics, University of Bristol, UK)
 
 
