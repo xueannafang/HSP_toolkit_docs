@@ -1,4 +1,4 @@
-Last update: 15/01/2023
+Last update: 19/03/2024
 
 <p>
  <img src=https://github.com/xueannafang/hsp-toolkits/blob/main/figs/logo_all.png width=100>
@@ -81,6 +81,8 @@ The studied materials tested during the development of *MLoc* are mainly based o
 ## Versions
 
 ### SolvPred
+
+- [More from HSPs: SolvPred+](https://github.com/xueannafang/solv_pred_plus)
 
 - [v2.0](https://github.com/xueannafang/hsp_toolkit_solv_pred_v_2.0)
 
