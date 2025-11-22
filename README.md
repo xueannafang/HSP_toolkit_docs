@@ -114,7 +114,7 @@ These projects are developed by
 with instruction from
 
 - [Prof Charl FJ Faul](https://faulresearchgroup.com/charl-f-j-faul/) (School of chemistry, University of Bristol, UK)
-- [Dr Natalie Fey](https://feygroupchem.wordpress.com/) (School of chemistry, University of Bristol, UK)
+- [Prof Natalie Fey](https://feygroupchem.wordpress.com/) (School of chemistry, University of Bristol, UK)
 - [Dr Ella Gale](https://www.bristol.ac.uk/people/person/Ella-Gale-58ab10ba-8b85-4513-944e-6d9020b6ff2c/) (School of chemistry, University of Bristol, UK)
 
 Experimental test data of *M Locator* is contributed by the Conjugated Microporous Polymers (CMP) team of the [Faul research group](https://faulresearchgroup.com/).
@@ -134,6 +134,8 @@ The author acknowledges all those who have provided inputs and technical support
 
 ## Cite this work
 
+- Xue Fang, Ulzhalgas Karatayeva, John D. Worth, Merve Gumussoy Girgin, Safa Ali Al Siyabi, Dauren Mukhanov, Ella M. Gale, Charl F. J. Faul* and Natalie Fey*, A solvent selection framework for porous organic polymers, Journal of Chemical Information and Modeling, 2025, ASAP, doi: [10.1021/acs.jcim.5c02163](https://doi.org/10.1021/acs.jcim.5c02163).
+  - 
 - X. Fang, C. F. J. Faul, N. Fey, [Development of Solvent Selection Methods for Functional Materials Preparation](https://research-information.bris.ac.uk/en/studentTheses/development-of-solvent-selection-methods-for-functional-materials), University of Bristol (PhD Dissertation), 4 Feb 2025.
 
 
