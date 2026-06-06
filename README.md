@@ -4,6 +4,9 @@ Last update: 19/03/2024
  <img src=https://github.com/xueannafang/hsp-toolkits/blob/main/figs/logo_all.png width=100>
  </p>
 
+## The detail of this work is published in Journal of Chemical Information and Modeling, 2025, 65, 22, 12377–12386 doi: [10.1021/acs.jcim.5c02163](https://doi.org/10.1021/acs.jcim.5c02163).
+
+
 # Introduction
 
 ## Aim
@@ -134,7 +137,7 @@ The author acknowledges all those who have provided inputs and technical support
 
 ## Cite this work
 
-- Xue Fang, Ulzhalgas Karatayeva, John D. Worth, Merve Gumussoy Girgin, Safa Ali Al Siyabi, Dauren Mukhanov, Ella M. Gale, Charl F. J. Faul* and Natalie Fey*, A solvent selection framework for porous organic polymers, Journal of Chemical Information and Modeling, 2025, ASAP, doi: [10.1021/acs.jcim.5c02163](https://doi.org/10.1021/acs.jcim.5c02163).
+- Xue Fang, Ulzhalgas Karatayeva, John D. Worth, Merve Gumussoy Girgin, Safa Ali Al Siyabi, Dauren Mukhanov, Ella M. Gale, Charl F. J. Faul* and Natalie Fey*, A solvent selection framework for porous organic polymers, Journal of Chemical Information and Modeling, 2025, 65, 22, 12377–12386 doi: [10.1021/acs.jcim.5c02163](https://doi.org/10.1021/acs.jcim.5c02163).
   
 - X. Fang, C. F. J. Faul, N. Fey, [Development of Solvent Selection Methods for Functional Materials Preparation](https://research-information.bris.ac.uk/en/studentTheses/development-of-solvent-selection-methods-for-functional-materials), University of Bristol (PhD Dissertation), 4 Feb 2025.
 
