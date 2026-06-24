@@ -100,7 +100,9 @@ The studied materials tested during the development of *MLoc* are mainly based o
 ## References
 
 1. C. Hansen, Hansen Solubility Parameters – A user’s handbook, 2nd edition, 2011.
+
 2.X. Fang, U. Karatayeva, J. D. Worth, M. G. Girgin, S. A. A. Siyabi, D. Mukhanov, E. M. Gale, C. F. J. Faul* and N. Fey*, A solvent selection framework for porous organic polymers, Journal of Chemical Information and Modeling, 2025, 65, 22, 12377–12386, doi: [10.1021/acs.jcim.5c02163](https://doi.org/10.1021/acs.jcim.5c02163).
+
 3. X. Fang, S. Li, B. Gao, E. M. Gale, C. F. J. Faul, N. Fey, An Inverse Design Workflow for Solvent Mixtures Based on Hansen Solubility Parameters, ChemRxiv, 2026, [https://doi.org/10.26434/chemrxiv.15005117/v1](https://doi.org/10.26434/chemrxiv.15005117/v1).
 
 (Physical/Chemical data of solvents in the database were collected from [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and HSP handbook[ref 1].)
